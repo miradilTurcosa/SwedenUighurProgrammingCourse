@@ -16,4 +16,3 @@ Visual Studio Code (vscode)
 1. go to https://code.visualstudio.com/download </br>
 2. download </br>
 Windows: 
-![windows](/ "Optional Title")
