@@ -34,7 +34,7 @@ Zoom
 <p dir='rtl' align='right'>
 تۆۋەندىكى چۈشەندۇرۇش بويىچە بۇ دەرسكە كىرسىڭىز بولىدۇ.
 </p>
-1. go to https://zoom.us/
-2. Join A Meeting 
+1. go to https://zoom.us/ </br>
+2. Join A Meeting </br>
 <p dir='rtl' align='right'>3.  slack دا بىر نۇمۇر سىلەرگە ھەر دەرسدىن بۇرۇن سىلەرگە ئەۋەتىلدۇ. شۇنى كىرىڭ </p>
 4. join
